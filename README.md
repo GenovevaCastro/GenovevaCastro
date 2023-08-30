@@ -1,4 +1,5 @@
- 👋 Hola, soy @GenovevaCastro
+## 👋 Hola mi nombre es Genoveva Castro
+
  👩‍💻 Soy desarrolladora Front End y 👩‍🎨 Diseñadora gráfica 
 
 🔸Llevo mas de 6 años ejerciendo como diseñadora gráfica 🎨, sin embargo decidí hacer un cambio en mi vida profesional al mundo del desarrollo web 💻,
