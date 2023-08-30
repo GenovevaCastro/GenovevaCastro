@@ -1,6 +1,6 @@
 ## 👋 Hola, soy Genoveva Castro
 
-##👩‍💻 Soy desarrolladora Front End y 👩‍🎨 Diseñadora gráfica 
+👩‍💻 Soy desarrolladora Front End y 👩‍🎨 Diseñadora gráfica 
 
 🔸Llevo mas de 6 años ejerciendo como diseñadora gráfica 🎨, sin embargo decidí hacer un cambio en mi vida profesional al mundo del desarrollo web 💻,
   ya que a lo largo de mi carrera de alguna forma siempre estuve ligada al diseño de páginas web, lo cuál despertó mi curiosidad y mi necesidad 
