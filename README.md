@@ -1,4 +1,6 @@
-<h1 align="center"> Hola, soy Genoveva Castro <img src="https://github.com/GenovevaCastro/GenovevaCastro/assets/131982616/651545c1-ae8e-435e-813a-58bea8f0e36c" width="50" height=50"/></h1> 
+<img align="center" src="https://github.com/GenovevaCastro/GenovevaCastro/assets/131982616/651545c1-ae8e-435e-813a-58bea8f0e36c" width="200" height=200"/>
+
+<h1 align="center"> Hola, soy Genoveva Castro </h1> 
 
 <div id=header align="center">
 <h3>👩‍💻  Soy desarrolladora Front End y diseñadora gráfica  👩‍🎨</h3>
