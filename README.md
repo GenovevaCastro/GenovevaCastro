@@ -1,4 +1,3 @@
-![22467674_1552362601490804_7120822503132183580_o](https://github.com/GenovevaCastro/GenovevaCastro/assets/131982616/55656ea5-e228-4b7c-b175-911704e6d78a)
 
 <div id=header align="center">
 <h1>👋 Hola, soy Genoveva Castro</h1> 
