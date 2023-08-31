@@ -33,6 +33,7 @@ Soy una persona con la curiosidad y disposición de aprender constantemente, por
 <img src="https://github.com/GenovevaCastro/GenovevaCastro/assets/131982616/a8b7e6ff-17c4-4e2e-b40b-2e245939b0ab" width="40" height="40"/>
 </div>
 </div>
+
 ---
 <div id=header align="center">
 <h5>✨¿Qué sería de la vida si no tuviéramos el valor de intentar algo nuevo?✨  -  Vincent Van Gogh .</h5>
