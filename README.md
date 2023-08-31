@@ -3,7 +3,7 @@
 </div>
 
 <div id=header align="center">
-## 👋 Hola, soy Genoveva Castro
+<h1>👋 Hola, soy Genoveva Castro</h1> 
 </div>
 
 **👩‍💻 Soy desarrolladora Front End y 👩‍🎨 Diseñadora gráfica**
