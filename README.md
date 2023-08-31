@@ -2,7 +2,9 @@
 <img![1](https://github.com/GenovevaCastro/GenovevaCastro/assets/131982616/dcac3c1d-5598-4386-b0e3-f56b4b2662e0) width="200"/>
 </div>
 
+<div id=header align="center">
 ## 👋 Hola, soy Genoveva Castro
+</div>
 
 **👩‍💻 Soy desarrolladora Front End y 👩‍🎨 Diseñadora gráfica**
 
