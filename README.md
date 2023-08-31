@@ -1,6 +1,5 @@
 <h1 align="center">👋 Hola, soy Genoveva Castro</h1> 
 
----
 <div id=header align="center">
 <h3>👩‍💻 Soy desarrolladora Front End y diseñadora gráfica 👩‍🎨</h3>
 </div>
@@ -10,8 +9,7 @@
 
 Soy una persona con la curiosidad y disposición de aprender constantemente, por lo cuál estoy emocionada de trabajar y conocer nuevas tecnologías, tener nuevos retos y mayores aprendizajes del mundo tech 🌎 💻.</p>
 </div>
-
----
+--
 <div id=header align="center">
 <h5>✨¿Qué sería de la vida si no tuviéramos el valor de intentar algo nuevo?✨  -  Vincent Van Gogh .</h5>
 </div>
