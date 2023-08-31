@@ -20,7 +20,7 @@ Soy una persona con la curiosidad y disposición de aprender constantemente, por
 
 <img src="https://github.com/GenovevaCastro/GenovevaCastro/assets/131982616/d70f2414-bfda-415d-ac71-812b6bd864a1" width="40" height="40"/>
 
-<img src="https://github.com/GenovevaCastro/GenovevaCastro/assets/131982616/a01c6820-2017-43aa-b9f1-50d9e605f128" width="40" height="40"/>
+<img src="https://github.com/GenovevaCastro/GenovevaCastro/assets/131982616/a01c6820-2017-43aa-b9f1-50d9e605f128" width="40"/>
 
 <img src="https://github.com/GenovevaCastro/GenovevaCastro/assets/131982616/b67a02be-afa8-4cf3-9e4c-f07533cb1bf1" width="40" height="40"/>
 
