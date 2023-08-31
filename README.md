@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/GenovevaCastro/GenovevaCastro/assets/131982616/651545c1-ae8e-435e-813a-58bea8f0e36c" width="200" height=200"/>
+  <img src="https://github.com/GenovevaCastro/GenovevaCastro/assets/131982616/73ff4303-9181-46c4-9650-e4812ae3e88c"/>
 </div>
 
 <h1 align="center"> Hola, soy Genoveva Castro </h1> 
