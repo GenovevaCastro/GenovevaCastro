@@ -9,7 +9,7 @@
 
 Soy una persona con la curiosidad y disposición de aprender constantemente, por lo cuál estoy emocionada de trabajar y conocer nuevas tecnologías, tener nuevos retos y mayores aprendizajes del mundo tech 🌎 💻.</p>
 </div>
-<br>
+
 <div id=lenguajes align="center">
 <h3>Lenguajes y herramientas:</h3>
 
