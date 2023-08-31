@@ -2,8 +2,6 @@
   <img src="https://github.com/GenovevaCastro/GenovevaCastro/assets/131982616/73ff4303-9181-46c4-9650-e4812ae3e88c"/>
 </div>
 
-<h1 align="center"> Hola, soy Genoveva Castro </h1> 
-
 <div id=header align="center">
 <h3>👩‍💻  Soy desarrolladora Front End y diseñadora gráfica  👩‍🎨</h3>
 </div>
