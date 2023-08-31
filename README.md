@@ -9,6 +9,7 @@
 
 Soy una persona con la curiosidad y disposición de aprender constantemente, por lo cuál estoy emocionada de trabajar y conocer nuevas tecnologías, tener nuevos retos y mayores aprendizajes del mundo tech 🌎 💻.</p>
 </div>
+
 ---
 <div id=header align="center">
 <h5>✨¿Qué sería de la vida si no tuviéramos el valor de intentar algo nuevo?✨  -  Vincent Van Gogh .</h5>
