@@ -1,3 +1,7 @@
+<div id=header align="center">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.es%2Ffotos-vectores-gratis%2Fmujer-programadora&psig=AOvVaw3zXFz-MnlcYYkuHFRECr7b&ust=1693526483317000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOD86fTLhYEDFQAAAAAdAAAAABAE" width="200"/>
+</div>
+
 ## 👋 Hola, soy Genoveva Castro
 
 **👩‍💻 Soy desarrolladora Front End y 👩‍🎨 Diseñadora gráfica**
