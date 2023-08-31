@@ -2,10 +2,6 @@
 ![1](https://github.com/GenovevaCastro/GenovevaCastro/assets/131982616/dcac3c1d-5598-4386-b0e3-f56b4b2662e0)
 </div>
 
-
-
-
-
 ## 👋 Hola, soy Genoveva Castro
 
 **👩‍💻 Soy desarrolladora Front End y 👩‍🎨 Diseñadora gráfica**
