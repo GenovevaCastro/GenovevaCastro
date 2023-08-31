@@ -16,3 +16,5 @@ Soy una persona con la curiosidad y disposición de aprender constantemente, por
 <div id=header align="center">
 <h5>✨¿Qué sería de la vida si no tuviéramos el valor de intentar algo nuevo?✨  -  Vincent Van Gogh .</h5>
 </div>
+
+[linkedin.com/in/genoveva-castro-rivera-38b1bb206 ]
