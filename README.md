@@ -1,4 +1,6 @@
-<img align="center" src="https://github.com/GenovevaCastro/GenovevaCastro/assets/131982616/651545c1-ae8e-435e-813a-58bea8f0e36c" width="200" height=200"/>
+<div align="center">
+  <img src="https://github.com/GenovevaCastro/GenovevaCastro/assets/131982616/651545c1-ae8e-435e-813a-58bea8f0e36c" width="200" height=200"/>
+</div>
 
 <h1 align="center"> Hola, soy Genoveva Castro </h1> 
 
