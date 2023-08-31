@@ -12,6 +12,9 @@ Soy una persona con la curiosidad y disposición de aprender constantemente, por
 
 <div id=header align="center">
 <h3>Lenguajes y herramientas:</h3>
+
+  <img src="https://github.com/GenovevaCastro/GenovevaCastro/assets/131982616/651545c1-ae8e-435e-813a-58bea8f0e36c" width="40" height="40"/>
+
 </div>
 
 ---
