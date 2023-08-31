@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hola, soy Genoveva Castro</h1> 
 
 <div id=header align="center">
-<h3>👩‍💻 Soy desarrolladora Front End y diseñadora gráfica 👩‍🎨</h3>
+<h3>👩‍💻  Soy desarrolladora Front End y diseñadora gráfica  👩‍🎨</h3>
 </div>
 
 <div id=header align="center">
