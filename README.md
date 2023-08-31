@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/GenovevaCastro/GenovevaCastro/assets/131982616/d97314a0-2190-40c6-a4ee-fb8623e72ad6"/>
+  <img src="https://github.com/GenovevaCastro/GenovevaCastro/assets/131982616/796a752b-e401-4355-a4e2-83ff80430758"/>
 </div>
 
 <div id=header align="center">
